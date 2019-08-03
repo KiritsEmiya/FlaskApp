@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+jinja2
+MarkupSafe
+PyMySQL
+SQLAlchemy
+WTForms
+Werkzeug
+flask-redis
+itsdangerous
+redis
